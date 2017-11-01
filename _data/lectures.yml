@@ -10,30 +10,47 @@
   notes:
       - Classical Cryptography: 02/CSCD27-ClassicalCryptography.pdf
 
-- week: The Modern Cryptography Toolbox
+- week: Symmetric Cryptography, Hash Functions and Protocols
+  notes:
+      - Symmetric Encryption: 03/CSCD27-SymmetricEncryption.pdf
+      - Hash Functions: 03/CSCD27-CryptographicHashFunctions.pdf
+      - Symmetric Protocols: 03/CSCD27-SymmetricProtocols.pdf
   readings:
       - AES Standard: http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
       - Rijndael Proposal for AES Competition: http://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf
-      - The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       - Illustrated Guide to Secure Hash Functions: http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
+      - Authenticated Encryption: http://cseweb.ucsd.edu/~mihir/papers/oem.pdf
 
-- week: Cryptography protocols
+
+- week: Public-key Cryptography, Digital Signatures and Protocols
+  notes:
+      - Asymmetric Encryption: 04/CSCD27-AsymmetricEncryption.pdf
+      - Digital Signatures: 04/CSCD27-DigitalSignatures.pdf
+      - Asymmetric Protocols: 04/CSCD27-AsymmetricProtocols.pdf
+      - Quantum Computing and Quantum Cryptography: 04/CSCD27-Quantum.pdf
   readings:
-      - The original Diffie-Hellman paper: http://www-ee.stanford.edu/~hellman/publications/24.pdf
+      - The original RSA paper: http://people.csail.mit.edu/rivest/Rsapaper.pdf
       - Programming Satan’s Computer: https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf
+      - How does SSL/TLS work? : https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
 - week: Network Insecurity
+  notes:
+      - Internet (in)security: 05/CSCD27-InternetInsecurity.pdf
   readings:
       - Intercepting Mobile Communications - The Insecurity of 802.11: http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Borisov2001_Insecure802_11.pdf
 
 - break: <span class="em">Reading Week</span>
 
 - week: Network Security
+  notes:
+      - Network Security: 06/CSCD27-NetworkSecurity.pdf
   readings:
       - The First Few Milliseconds of an HTTPS Connection: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
       - The risks of mixed-content with HTTPS: https://www.youtube.com/watch?v=CSmacMZ0xZo
 
 - week: Authentication and Authorization
+  notes:
+      - Human Authentication: 07/CSCD27-HumanAuthentication.pdf
 
 - week: OS and Program Insecurity
   readings: 
